@@ -1,0 +1,15 @@
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\bin\Debug\net6.0\BillManagement.exe
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\bin\Debug\net6.0\BillManagement.deps.json
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\bin\Debug\net6.0\BillManagement.runtimeconfig.json
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\bin\Debug\net6.0\BillManagement.dll
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\bin\Debug\net6.0\BillManagement.pdb
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\obj\Debug\net6.0\BillManagement.csproj.AssemblyReference.cache
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\obj\Debug\net6.0\BillManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\obj\Debug\net6.0\BillManagement.AssemblyInfoInputs.cache
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\obj\Debug\net6.0\BillManagement.AssemblyInfo.cs
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\obj\Debug\net6.0\BillManagement.csproj.CoreCompileInputs.cache
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\obj\Debug\net6.0\BillManagement.dll
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\obj\Debug\net6.0\refint\BillManagement.dll
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\obj\Debug\net6.0\BillManagement.pdb
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\obj\Debug\net6.0\BillManagement.genruntimeconfig.cache
+D:\Chuyen_nganh_5\PRN291\project\PrivateProject\BillManagement\obj\Debug\net6.0\ref\BillManagement.dll
