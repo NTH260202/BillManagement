@@ -17,10 +17,5 @@ public class Customer
 		Name = name;
 		Address = address;
     }
-
-    public override string ToString()
-	{
-		return $"Id: {Id}, Name: {Name}, Address: {Address}";
-	}
 }
 

@@ -10,5 +10,8 @@ namespace BillManagement.common
     {
         public const string INTERNATIONAL_CUSTOMER = "International";
         public const string NATIONAL_CUSTOMER = "National";
+        public const string COMMON_CUSTOMER = "Common";
+        public const string BUSINESS_CUSTOMER = "Business";
+        public const string MANUFACTURE_CUSTOMER = "Manufacture";
     }
 }
